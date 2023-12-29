@@ -54,6 +54,6 @@ This repository contains Python code for detecting credit card fraud using a Ran
 
 ### Author
 
-Madhan Sai cr
+Madhan Sai CR
 > Contact me @ [LinkedIn](https://www.linkedin.com/in/cr-madhan-sai-32b083241 ../.) |  [Email](mailto:mscelegala2004@gmail.com)
 
